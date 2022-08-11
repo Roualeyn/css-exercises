@@ -1,0 +1,17 @@
+.odd {
+    background-color: salmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.medium-text {
+    font-size: 24px;
+}
+#fourth-element {
+    background-color: lightgreen;
+    font-weight: bold;
+}
